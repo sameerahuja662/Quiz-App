@@ -1,0 +1,48 @@
+
+/* Class = "UITextField"; placeholder = "Enter your name here.."; ObjectID = "0p0-LC-mr4"; */
+"0p0-LC-mr4.placeholder" = "Enter your name here..";
+
+/* Class = "UIButton"; normalTitle = "C. Option 3"; ObjectID = "1Yf-jC-4KS"; */
+"1Yf-jC-4KS.normalTitle" = "C. Option 3";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "1o4-Eq-ray"; */
+"1o4-Eq-ray.text" = "User";
+
+/* Class = "UILabel"; text = "1/6"; ObjectID = "5Pk-df-MVg"; */
+"5Pk-df-MVg.text" = "1/6";
+
+/* Class = "UIViewController"; title = "Home Screen"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Home Screen";
+
+/* Class = "UIButton"; normalTitle = "B. Option 2"; ObjectID = "DJX-Um-HKI"; */
+"DJX-Um-HKI.normalTitle" = "B. Option 2";
+
+/* Class = "UIButton"; normalTitle = "Restart Quiz"; ObjectID = "HGr-L8-Muy"; */
+"HGr-L8-Muy.normalTitle" = "Restart Quiz";
+
+/* Class = "UIButton"; normalTitle = "D. Option 4"; ObjectID = "TN7-3T-q9h"; */
+"TN7-3T-q9h.normalTitle" = "D. Option 4";
+
+/* Class = "UILabel"; text = "Your Score was 100"; ObjectID = "Tzm-WX-zOj"; */
+"Tzm-WX-zOj.text" = "Your Score was 100";
+
+/* Class = "UILabel"; text = "This Caribbean country is home to Cou-Cou and Flying Fish. Rihanna the popular R&B singer is from here."; ObjectID = "WA0-v4-rDE"; */
+"WA0-v4-rDE.text" = "This Caribbean country is home to Cou-Cou and Flying Fish. Rihanna the popular R&B singer is from here.";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Y02-Su-jrF"; */
+"Y02-Su-jrF.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "Y6a-qg-yvK"; */
+"Y6a-qg-yvK.text" = "Welcome!";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "Yxl-cb-Bvx"; */
+"Yxl-cb-Bvx.title" = "Home";
+
+/* Class = "UILabel"; text = "Results"; ObjectID = "f8X-11-zRH"; */
+"f8X-11-zRH.text" = "Results";
+
+/* Class = "UIButton"; normalTitle = "A. Option 1"; ObjectID = "h4u-d2-NXf"; */
+"h4u-d2-NXf.normalTitle" = "A. Option 1";
+
+/* Class = "UINavigationItem"; title = "Quiz Game"; ObjectID = "wEF-dT-Sni"; */
+"wEF-dT-Sni.title" = "Quiz Game";
